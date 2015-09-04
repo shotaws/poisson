@@ -25,8 +25,8 @@ endfor
 fid(1) = fopen('1d_data_x.csv','w');
 fid(2) = fopen('1d_data_y.csv','w');
 for ii = 1:npoints
-fprintf(fid(1), '%f, %f,\n', Data_x(1,ii)*length, Data_x(2,ii)*length);
-fprintf(fid(2), '%f, %f,\n', Data_y(1,ii)*length, Data_y(2,ii)*length);
+fprintf(fid(1), '%f, %f,\n', Data_x(1,ii)*length, Data_x(2,ii));
+fprintf(fid(2), '%f, %f,\n', Data_y(1,ii), Data_y(2,ii)*length);
 endfor
 status(1) = fclose(fid(1)); 
 status(2) = fclose(fid(2)); 
