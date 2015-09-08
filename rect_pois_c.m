@@ -4,6 +4,8 @@ close all;
 % http://stackoverflow.com/questions/27936167/poisson-point-process-in-matlab
 % http://connor-johnson.com/2014/02/25/spatial-point-processes/
 % http://www.mathworks.com/matlabcentral/fileexchange/2493-simulation-of-stochastic-processes/content/stproc/poisson2d.m
+% Stochastic Processes for Spatial Econometrics
+% Stochastic Geometry, Spatial Statistics and Random Fields: Asymptotic Methods
 
 density = 0.013;
 length = 5000;
