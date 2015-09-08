@@ -1,6 +1,6 @@
 # poisson
 updated : 2015/9/8  
-homogeneous poisson placement  
+homogeneous poisson placement for Scenargie 1.7  
 (My first test in GitHub)  
 
 ## Contents  
