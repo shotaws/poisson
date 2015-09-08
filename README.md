@@ -26,4 +26,4 @@ homogeneous poisson placement for Scenargie 1.7
 * Eclipse Kepler Service Release 2  
 
 ## Disclaimer  
-I will not assume liability for any damages caused by this programs.  
+I will not assume liability for any damages caused by these programs.  
