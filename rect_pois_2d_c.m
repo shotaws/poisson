@@ -4,6 +4,7 @@ close all;
 % http://stackoverflow.com/questions/27936167/poisson-point-process-in-matlab
 % http://connor-johnson.com/2014/02/25/spatial-point-processes/
 % http://www.mathworks.com/matlabcentral/fileexchange/2493-simulation-of-stochastic-processes/content/stproc/poisson2d.m
+% Non-Uniform Random Variate Generation
 
 density = 0.004;
 length_x = 600;
