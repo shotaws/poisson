@@ -6,6 +6,7 @@ close all;
 % http://www.mathworks.com/matlabcentral/fileexchange/2493-simulation-of-stochastic-processes/content/stproc/poisson2d.m
 % Stochastic Processes for Spatial Econometrics
 % Stochastic Geometry, Spatial Statistics and Random Fields: Asymptotic Methods
+% Non-Uniform Random Variate Generation
 
 density = 0.013;
 length = 5000;
