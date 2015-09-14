@@ -33,11 +33,11 @@ public class ConvertPosScenargie {
 			
 			bw.flush();
 			out.close();
-            br.close();
-            in.close();
-		} catch (IOException e1) {
+			br.close();
+			in.close();
+		} catch (IOException e) {
 			// TODO é©ìÆê∂ê¨Ç≥ÇÍÇΩ catch ÉuÉçÉbÉN
-			System.out.println(e1);
+			System.out.println(e);
 		}
 
 	}
